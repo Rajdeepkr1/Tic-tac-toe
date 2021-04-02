@@ -1,0 +1,9 @@
+#board{
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+  }
+.grid-row{
+    display: flex;
+    justify-content: center;
+  }
